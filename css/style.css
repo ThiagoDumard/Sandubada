@@ -1,0 +1,31 @@
+body {
+    background-color: antiquewhite;
+    margin: 3%;
+    font-size: 20px;
+    color: rgb(69, 24, 24);
+    text-align: center;
+}
+.barra {
+        font-size: 35px;
+        color: rgb(69, 24, 24);
+        background: rgb(243, 102, 32);
+}
+h2{
+    text-align: center;
+}
+.preparo {
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 23%;
+    font-size: 25px;
+}
+.lista {
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-left: 32%;
+    margin-right: 23%;
+    font-size: 25px;
+}
